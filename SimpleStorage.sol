@@ -14,4 +14,6 @@ contract SimpleStorage {
 
     function (){}
 
+    function (){}
+
 }
